@@ -1,0 +1,9 @@
+[project]
+name = "shockclock"
+version = "1.0.0"
+description = "Offline pool sanitiser planner driven by a plain-text water-test log."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

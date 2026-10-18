@@ -1,0 +1,13 @@
+# Backyard pool: 40,000 L, calcium hypochlorite, tested twice a day
+name=Backyard
+volume=40000
+product=calhypo
+tds=1200
+
+2026-10-01 08:00 test FC=3.2 CC=0.1 pH=7.5 TA=90 CH=260 CYA=40 T=24
+2026-10-01 20:00 test FC=2.6 CC=0.1 pH=7.5 TA=90 CH=260 CYA=40 T=23
+2026-10-02 08:00 test FC=2.0 CC=0.2 pH=7.6 TA=90 CH=260 CYA=40 T=23
+2026-10-02 09:00 dose product=calhypo amount=150g
+2026-10-02 10:00 test FC=4.5 CC=0.1 pH=7.6 TA=90 CH=260 CYA=40 T=24
+2026-10-02 20:00 test FC=3.9 CC=0.1 pH=7.6 TA=90 CH=260 CYA=40 T=23
+2026-10-03 08:00 test FC=2.9 CC=0.1 pH=7.7 TA=90 CH=260 CYA=40 T=22
